@@ -14,5 +14,6 @@ As a side note; my approach and explanations might be a little different to the 
 
 ## Tasks/Homeworks
 
-| Task # | Related Session |
-| ------ | --------------- |
+| Task # | Link                                 | Related Session |
+| ------ | ------------------------------------ | --------------- |
+| 01     | [tasks/task_01.md](tasks/task_01.md) | 1               |
