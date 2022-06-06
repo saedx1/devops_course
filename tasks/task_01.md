@@ -18,6 +18,7 @@ wget https://raw.githubusercontent.com/saedx1/devops_course/main/data/grades.csv
 Using that file, write one-line commands to get answers to the following questions:
 
 1. How many students are their?
-2. Can you show the unique universities?
-3. How many universities are in the file?
-4. How many universities have the world `University` in them
+2. Show the unique universities?
+3. How many universities are their?
+4. How many universities have the word `University` in them.
+5. Show the top 5 students based on their GPA.
