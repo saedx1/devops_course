@@ -9,6 +9,12 @@ You have a file [grades.csv](../data/grades.csv) that contains GPAs for a lot of
 - University
 - GPA
 
+To download the file to your linux server, use `wget`:
+
+```shell
+wget https://raw.githubusercontent.com/saedx1/devops_course/main/data/grades.csv
+```
+
 Using that file, write one-line commands to get answers to the following questions:
 
 1. How many students are their?
