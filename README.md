@@ -4,13 +4,13 @@ This repository hosts my attempt at a DevOps course to students and professional
 
 The purpose of the repository is to comprise the slides explained in the sessions we have. Also, this will give supplement material that will help a further understanding of the matter.
 
-As a side note; my approach and description might be a little different to the usual description of things; I try my best to link concept to a tangible thing in work/action, you might agree or disagree with some of the ways I describe or define certain things, I'm just trying to give the course my way.
+As a side note; my approach and explanations might be a little different to the formal definition of things; I try my best to link a concept to a tangible thing in work/action, you might agree or disagree with some of the ways I describe or define certain things, I'm just trying to give the course in a way that I think is more helpful and easier to digest.
 
 ## Sessions
 
-| ID  | Date       | Topic(s)                                                         | Material                 |
-| --- | ---------- | ---------------------------------------------------------------- | ------------------------ |
-| 1   | 05-06-2022 | Quick Intro. Basic Concepts of Networking. Linux Shell Scripting | [Here](slides/session1/) |
+| ID  | Date       | Topic(s)                                                         | Material                                                                   | Video                                                  |
+| --- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1   | 05-06-2022 | Quick Intro. Basic Concepts of Networking. Linux Shell Scripting | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_1) | [Youtube](https://www.youtube.com/watch?v=XEbtOd2qEZQ) |
 
 ## Tasks/Homeworks
 
