@@ -14,5 +14,5 @@ As a side note; my approach and explanations might be a little different to the 
 
 ## Tasks/Homeworks
 
-| Task # | Date | Related Session |
-| ------ | ---- | --------------- |
+| Task # | Related Session |
+| ------ | --------------- |
