@@ -11,6 +11,8 @@ As a side note; my approach and explanations might be a little different to the 
 | ID  | Date       | Topic(s)                                                         | Material                                                                   | Video                                                  |
 | --- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 1   | 05-06-2022 | Quick Intro. Basic Concepts of Networking. Linux Shell Scripting | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_1) | [Youtube](https://www.youtube.com/watch?v=XEbtOd2qEZQ) |
+| 2   | 11-06-2022 | Deeper into Shell Scripting                                      | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_2) | [Youtube](https://www.youtube.com/watch?v=lbLxoRC8i6A) |
+| 3   | 12-06-2022 | SDLC & Gitflow                                                   | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_3) | [Youtube](https://www.youtube.com/watch?v=VwawEuWcLbs) |
 
 ## Tasks/Homeworks
 
