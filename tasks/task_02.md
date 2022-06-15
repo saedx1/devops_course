@@ -1,6 +1,6 @@
 # Task 02
 
-1. Try doing [Task 01](tasks/task_01.md) _without having to use the file from the local filesystem_.
+1. Try doing [Task 01](task_01.md) _without having to use the file from the local filesystem_.
 
    - You can use `curl` and pipes `|`, or
    - Try storing the file into an env var with `curl` instead of downloading it everytime
