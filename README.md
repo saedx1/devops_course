@@ -14,8 +14,9 @@ As a side note; my approach and explanations might be a little different to the 
 | 2   | 11-06-2022 | Deeper into Shell Scripting                                      | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_2)                                                            | [Youtube](https://www.youtube.com/watch?v=lbLxoRC8i6A) |
 | 3   | 12-06-2022 | SDLC & Gitflow (applied with Github)                             | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_3)                                                            | [Youtube](https://www.youtube.com/watch?v=VwawEuWcLbs) |
 | 4   | 18-06-2022 | Docker                                                           | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_4), [Docker Demo Repo](https://github.com/saedx1/docker_demo) | [Youtube](https://www.youtube.com/watch?v=VW-z945KwuA) |
-| 4   | 19-06-2022 | Deeper into Docker & Docker-Compose                              | -                                                                                                                                     | [Youtube](https://www.youtube.com/watch?v=SGwzVkXAgrk) |
+| 5   | 19-06-2022 | Deeper into Docker & Docker-Compose                              | -                                                                                                                                     | [Youtube](https://www.youtube.com/watch?v=SGwzVkXAgrk) |
 | 6   | 25-06-2022 | CI/CD Pipelines with Github Actions                              | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_6), [CI/CD Demo Repo](https://github.com/saedx1/docker_demo)  | [Youtube](https://www.youtube.com/watch?v=1121pbK1_jk) |
+| 7   | 26-06-2022 | Introduction to AWS                                              | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_7), [CI/CD Demo Repo](https://github.com/saedx1/docker_demo)  | [Youtube](https://www.youtube.com/watch?v=AOIKXciRWNU) |
 
 ## Tasks/Homeworks
 
