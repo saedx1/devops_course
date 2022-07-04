@@ -17,6 +17,8 @@ As a side note; my approach and explanations might be a little different to the 
 | 5   | 19-06-2022 | Deeper into Docker & Docker-Compose                              | -                                                                                                                                     | [Youtube](https://www.youtube.com/watch?v=SGwzVkXAgrk) |
 | 6   | 25-06-2022 | CI/CD Pipelines with Github Actions                              | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_6), [CI/CD Demo Repo](https://github.com/saedx1/docker_demo)  | [Youtube](https://www.youtube.com/watch?v=1121pbK1_jk) |
 | 7   | 26-06-2022 | Introduction to AWS                                              | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_7), [CI/CD Demo Repo](https://github.com/saedx1/docker_demo)  | [Youtube](https://www.youtube.com/watch?v=AOIKXciRWNU) |
+| 8   | 02-07-2022 | Deeper into AWS; Lambda & CloudWatch; Dashboard & Automation     | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_8), [CI/CD Demo Repo](https://github.com/saedx1/docker_demo)  | [Youtube](https://www.youtube.com/watch?v=04akoUJfi-Y) |
+| 9   | 03-07-2022 | Hosting Containerized Apps on AWS; EC2 & ECS                     | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_9), [CI/CD Demo Repo](https://github.com/saedx1/docker_demo)  | [Youtube](https://www.youtube.com/watch?v=WSkzHXPfDZE) |
 
 ## Tasks/Homeworks
 
