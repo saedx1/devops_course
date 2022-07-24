@@ -20,7 +20,7 @@ As a side note; my approach and explanations might be a little different to the 
 | 8   | 02-07-2022 | Deeper into AWS; Lambda & CloudWatch; Dashboard & Automation     | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_8)                                                                | [Youtube](https://www.youtube.com/watch?v=04akoUJfi-Y) |
 | 9   | 03-07-2022 | Hosting Containerized Apps on AWS; EC2 & ECS                     | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_9)                                                                | [Youtube](https://www.youtube.com/watch?v=WSkzHXPfDZE) |
 | 10  | 23-07-2022 | IaC with Terraform                                               | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_10), [TF Demo Repo](https://github.com/saedx1/docker_demo)        | [Youtube](https://www.youtube.com/watch?v=AUmNOdcWgAI) |
-| 10  | 23-07-2022 | IaC with Terraform                                               | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_11), [DevSecOps Demo Repo](https://github.com/saedx1/docker_demo) | [Youtube](https://www.youtube.com/watch?v=WwgMcZ-jh-U) |
+| 11  | 23-07-2022 | Intro to DevSecOps                                               | [Here](https://github.com/saedx1/devops_course/tree/main/slides/session_11), [DevSecOps Demo Repo](https://github.com/saedx1/docker_demo) | [Youtube](https://www.youtube.com/watch?v=WwgMcZ-jh-U) |
 
 ## Tasks/Homeworks
 
